@@ -13,3 +13,10 @@ At that time, the author had published both the schematic and the software writt
 That’s when I got the idea to republish the information. Since the original information did not include the PCB, I designed a PCB version so that electronics enthusiasts could build the device themselves.
 
 The author of the schematic and the software is unknown to me. I am using and republishing this information because it was publicly available at x-roast.home.ro. I have no commercial interest whatsoever.
+
+There is a mismatch between the original schematic and the HEX file: pins 10 and 11 of the microcontroller are swapped.
+The first unit I built had a few errors, including the swapped pins 10 and 11, which were fixed by cutting PCB traces and soldering wires.
+
+The published version has already been corrected.
+
+A new, smaller PCB version is currently in development, which I will publish only after I have had the chance to test it.
